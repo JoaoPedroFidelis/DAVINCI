@@ -6,7 +6,7 @@
     right: 0;
 
     max-width: 100vw;
-    max-height: 100vh;
+    /* max-height: 100vh; */
     box-sizing: border-box;
     z-index: 999;
     background: transparent;
@@ -18,7 +18,7 @@
     left: 0;
     right: 0;
     max-width: 100vw;
-    max-height: 100vh;
+    /* max-height: 100vh; */
     box-sizing: border-box;
     overflow: hidden;
     margin: 0!important;
@@ -27,7 +27,7 @@
 }
 .windowcover-fakeTextarea .windowcover-awesomeImgHolder{
     width: 100vw;
-    height: 100vh;
+    height: 100%;
 }
 
 
